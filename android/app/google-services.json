@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "71747385718",
+    "firebase_url": "https://note-app-db-9c25b.firebaseio.com",
+    "project_id": "note-app-db-9c25b",
+    "storage_bucket": "note-app-db-9c25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71747385718:android:aac60b171c3c956c6b6257",
+        "android_client_info": {
+          "package_name": "com.example.reminder_note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71747385718-tepgb7n4m3ipfqh9caouj7trmla756nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPuzfw0d88WMHEm7iE1_HwZgCA7Fg9YKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71747385718-tepgb7n4m3ipfqh9caouj7trmla756nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
